@@ -1,0 +1,26 @@
+#navbar {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  padding: 2em;
+  justify-content: space-evenly;
+  background-color: #ffffff;
+  font-size: 1.2em;
+}
+
+#navbar > a {
+  display: flex;
+  text-decoration: none;
+  color: #cc9933;
+  transition: color 0.5s ease-in-out;
+}
+
+#navbar > a:hover {
+  color: #ffbf00;
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+
+#navbar > a.active {
+  border-bottom: 2px solid #cc9933;
+  padding-bottom: 3px;
+}

@@ -1,0 +1,17 @@
+.players-container {
+  font-family: "Poppins", sans-serif;
+}
+
+.single-player-container {
+  font-family: "Roboto", sans-serif;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-evenly;
+}
