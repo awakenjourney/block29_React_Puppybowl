@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-block29reactpuppybow-dev-92935-authRole",
+      "UnauthRoleArn": "arn:aws:iam::535100369888:role/amplify-block29reactpuppybow-dev-92935-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::535100369888:role/amplify-block29reactpuppybow-dev-92935-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-block29reactpuppybow-dev-92935-deployment",
+      "UnauthRoleName": "amplify-block29reactpuppybow-dev-92935-unauthRole",
+      "StackName": "amplify-block29reactpuppybow-dev-92935",
+      "StackId": "arn:aws:cloudformation:us-west-2:535100369888:stack/amplify-block29reactpuppybow-dev-92935/d87f6a30-54a5-11ee-8fac-0687caf5c0e3",
+      "AmplifyAppId": "d2vtwonf2u5vci"
+    }
+  }
+}
