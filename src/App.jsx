@@ -1,6 +1,6 @@
 import "../src/styles/app.css";
 import "../src/styles/homepage.css";
-import "../src/styles/navBar.css";
+import "../src/styles/navbar.css";
 import "../src/styles/footer.css";
 import "../src/styles/players.css";
 import "bootstrap/dist/css/bootstrap.css";
