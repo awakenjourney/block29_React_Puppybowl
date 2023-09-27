@@ -5,8 +5,9 @@
 }
 
 body {
-  background-image: url("../src/assets/puppiesbg.png");
-  background-size: cover;
-  background-repeat: no-repeat; 
+  /* background-image: url("../src/assets/puppiesbg.png"); */
+  /* background-size: cover;
+  background-repeat: no-repeat;  */
+  background-color: #0A7E8C;
 
 }
